@@ -9,7 +9,7 @@ namespace fanhell
 			int loop = -1;
 			while (loop < 0) 
 			{
-				Console.WriteLine ("The Ride Never Ends");
+				Console.WriteLine ("The Ride Never Ends.");
 			}
 		}
 	}
